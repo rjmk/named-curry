@@ -1,0 +1,26 @@
+{
+  "name": "named-curry",
+  "version": "0.0.0",
+  "description": "A curry for functions taking a hash of named arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjmk/named-curry.git"
+  },
+  "keywords": [
+    "curry",
+    "named-arguments"
+  ],
+  "author": "rjmk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjmk/named-curry/issues"
+  },
+  "homepage": "https://github.com/rjmk/named-curry#readme",
+  "dependencies": {
+    "object-assign": "^4.0.1"
+  }
+}
